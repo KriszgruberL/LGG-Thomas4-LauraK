@@ -1,0 +1,10 @@
+Regex {
+    Courses {
+        - https://www.rexegg.com/regex-quickstart.php
+        - https://regexone.com/
+    }
+
+    Test  {
+        - https://pythex.org/
+    }
+}
