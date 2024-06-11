@@ -52,11 +52,15 @@ python -m virtualenv env
 * To activate it:
 ```bash
 source env/bin/activate
+
+On windows 
+.\env\Scripts\Activate
+
 ```
 
 If you changed the name `env` you have to change it in this command too.
 
-If you successfully activated the environemennt you should see it between parenthesis in your terminal. See screenshot below.
+If you successfully activated the environment you should see it between parenthesis in your terminal. See screenshot below.
 
 ![virtualenv](assets/screen-virtualenv-activated.png)
 
