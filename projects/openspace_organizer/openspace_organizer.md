@@ -3,7 +3,7 @@
 - Repository: `openspace-organizer`
 - Type of Challenge: `Consolidation`
 - Duration: `2 days`
-- Deadline: `14/06/24 5:00 AM/PM`
+- Deadline: `14/06/24 5:00 PM`
 - Team challenge : team
 
 ## Mission objectives
