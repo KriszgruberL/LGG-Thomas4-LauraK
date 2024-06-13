@@ -3,8 +3,8 @@
 - Repository: `openspace-organizer`
 - Type of Challenge: `Consolidation`
 - Duration: `2 days`
-- Deadline: `dd/mm/yy H:i AM/PM`
-- Team challenge : `solo or team`
+- Deadline: `14/06/24 5:00 PM`
+- Team challenge : team
 
 ## Mission objectives
 
@@ -20,7 +20,7 @@ Create an algorithm that randomly assigns people to a spot in the openspace.
 - Use a clean architecture.
 - Read data from a xls file
 - Structure a project.
-- [OPTIONAL if team] Use git as a team with trello and integrate versioning and management
+- Use git as a team with trello
   - split functionnalities into tasks
   - assign tasks to people
   - develop functionalities on proper branch
@@ -219,6 +219,7 @@ In `main.py`:
    - (Contributors)
    - (Timeline)
    - (Personal situation)
+3. Clone repo locally as zip file to upload on moodle for friday night **5 PM deadline**
 
 ## Evaluation criteria
 
