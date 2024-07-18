@@ -143,3 +143,6 @@ cython_debug/
 *.DS_Store
 *.idea
 content/projects/archive/wikipedia_scraper/leaders.json
+/02-TheHill/MachineLearningIntro/02-ModelingStructuredData/01-Regression/data
+/LGG-Thomas4-LauraK/data
+/01-TheField/02-Python/03-Pandas/02-GettingToKnowYourData/WorldFoodFacts/en.openfoodfacts.org.products.tsv
