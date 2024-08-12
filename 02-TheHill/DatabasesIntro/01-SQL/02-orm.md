@@ -144,7 +144,27 @@ To access certain types of databases, the ORM will need a "connector"; a library
 
 Some ORMs can be slower than a super well written query (we are talking here about optimization for production). But a lot of big companies use ORMs anyway, because they are already plenty fast, it's rare to need to optimize your code that much!
 
+## Final notesrmation about that, please read the documentation of the ORM you are using.
+
+Some ORMs can be slower than a super well written query (we are talking here about optimization for production). But a lot of big companies use ORMs anyway, because they are already plenty fast, it's rare to need to optimize your code that much!
+
 ## Final notes
+
+I hope you have a clear idea of what ORMs are. If not, contact your team and talk about it with them.
+
+To properly use an ORM you will need to do more research, don't limit yourself to what is written in this README, it only shows you the basics.
+
+ORM is amazing and will make you gain **SO** much time once you master them, believe me on this one! ;)
+
+![Get things done](https://media.giphy.com/media/oUkLEfuYSrPOg/giphy.gif)
+
+## Additional resources
+
+- [Full stack Python ORMs](https://www.fullstackpython.com/object-relational-mappers-orms.html)
+- [sqlalchemy documentation](https://www.sqlalchemy.org/)
+- [Auth0 tutorial for sqlalchemy](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
+- [Medium: Basics of sqlalchemy (simple, short and clear)](https://medium.com/@haataa/orm-for-python-sqlalchemy-101-with-code-example-60868e65b0c)
+
 
 I hope you have a clear idea of what ORMs are. If not, contact your team and talk about it with them.
 
