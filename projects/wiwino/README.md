@@ -87,7 +87,6 @@ If a certain question is hard or not possible to answer with the data you have b
         - Yes: Move to done and merge the branch with the main branch
         - No: Back to in progress
     - Done: The branch has been merged
-- Write your queries in dedicated `.sql` files or a `queries.py` file with the queries as strings
 - For visualizing your insights, use either Python or Excel
 
 ## Deliverables
